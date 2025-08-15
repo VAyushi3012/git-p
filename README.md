@@ -1,4 +1,4 @@
 # git-p
 git repository.
 <br>
-Author -Ayushi vishwakarma
+Author -Ayushi carpenter
